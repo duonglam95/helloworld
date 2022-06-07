@@ -5,4 +5,5 @@ app.get('/contact', function (req, res){
 });
 app.listen(3000, function () {
 	console.log('Example app');
+	console.log('Example app2');
 });
